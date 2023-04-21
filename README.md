@@ -39,5 +39,12 @@ The website uses the following dependencies:
 ## API
 The website uses the <a href="https://rapidapi.com/renatozust/api/ai-summarizer">AI Summarizer</a>API from Rapid API to generate summaries. To use the API, you will need to obtain an API key from Rapid API and include it in your requests. You can find more information about the API and how to use it on the <a href="https://rapidapi.com/">Rapid API website</a>.
 
+## Build
+To Build a Build run Command :
+```bash
+npm run build
+```
+## Licence
+Learn more about the licence in the LICENCE file
 # Author
 This website was created by <a href="https://tanish-basu-portfolio.netlify.app/">Tanish Basu</a>. If you have any questions or feedback, you can reach out to me at tanishbasu50@gmail.com.
